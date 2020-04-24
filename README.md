@@ -1,6 +1,6 @@
 # [Caglayan Serbetci - Resume](https://caglayan.github.io/)
 
-This web site is my personal web site which is developed thanks to the [View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)
+This web site is my personal web site which is developed thanks to the [resume and CV theme for Bootstrap created by Start Bootstrap. ](https://github.com/BlackrockDigital/startbootstrap-resume)
 
 ## Preview
 
